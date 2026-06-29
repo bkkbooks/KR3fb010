@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb010/tls/v1/juan/15
+seq: 15
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 萬年曆備考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb010.xml
+hash: sha256:1e2e05d8d6bd2e9bd3e417d701a28dd8798de53baac4c468bd62566c0b2466a2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb010/tls/v1/juan/116
+seq: 116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 擬合就行爲此合就照會該布政司著落當該官吏照依照會內事理轉行鄭府長史司啟世子知會卽將所著律曆融通等書副本作速差人解部以憑轉發欽天監磨算施行等因承此擬合就行爲此劄仰本司官吏照依劄付備承照會內事理卽便具啟鄭世子知會卽將所著律曆融通等書副本作速差人解部轉發欽天監磨算施行毋得遲違未便奉此擬合具啟爲此今將前項緣由理合具本謹具啟聞伏候令旨左長史臣謝廷訓萬曆貳拾參年拾壹月初壹日右長史臣關志拯
+  hash: sha256:695911df7c9d5c642e8a85ddbea55b2b88ba7ac22922fa28d504d17525502d00
+metadata:
+  title: 萬年曆備考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb010.xml
+hash: sha256:3e1771c58ac616b952ec58e260d1abbdad6f7953503e453684ececc381f904de

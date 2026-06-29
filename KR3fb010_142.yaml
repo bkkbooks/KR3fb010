@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb010/tls/v1/juan/142
+seq: 142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之士何嘗禁人習學曆法乎如欲執私習之條而絶星曆之學誤矣該監各官局守成算既不能測驗以窮其變又不能虛心博訪考訂以復其常今既有其人務在同心共事協力推驗不得妬功忌能自相矛盾悉聽本部參究恭候命下容臣等遵奉施行緣係議正曆元以成大典等及節奉欽依禮部看了來說禮部知道事理未敢擅便謹題請旨留中
+  hash: sha256:eb2c61deb4bafca4fc35d381309b8b9727f92128b36feb10da8cfcfaeaffe864
+metadata:
+  title: 萬年曆備考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb010.xml
+hash: sha256:4818ded75c746b4d15dd861738a5b937082c262012f7f7512a18a6a9ef9dc455

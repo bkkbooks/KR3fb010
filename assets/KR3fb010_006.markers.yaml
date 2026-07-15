@@ -43,6 +43,7 @@ markers:
   - {type: line-break, offset: 363, content: '', id: KX_20_dup3, _xml_error: duplicate-id, _xml_original_id: KX_20}
   - {type: 'tls:seg', offset: 374, content: '', id: KR3fb010_tls_001-p3.s21}
   - {type: line-break, offset: 374, content: '', id: KX_21_dup3, _xml_error: duplicate-id, _xml_original_id: KX_21}
+  - {type: substitution, offset: 383, original: 姜, replacement: 薑, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16998}}
   - {type: 'tls:seg', offset: 386, content: '', id: KR3fb010_tls_001-p3.s22}
   - {type: line-break, offset: 386, content: '', id: KX_22_dup3, _xml_error: duplicate-id, _xml_original_id: KX_22}
   - {type: 'tls:seg', offset: 410, content: '', id: KR3fb010_tls_001-p3.s23}
@@ -52,4 +53,4 @@ markers:
   - {type: 'tls:seg', offset: 458, content: '', id: KR3fb010_tls_001-p3.s25}
   - {type: line-break, offset: 458, content: '', id: KX_25_dup3, _xml_error: duplicate-id, _xml_original_id: KX_25}
   back: []
-hash: sha256:0ab80a0eb3a90f17c011273f6eab8880afffc5baa599b6335022cb7863a54d0c
+hash: sha256:6815503d9d72c43bdbe3b6036c6d7c608f4071fd14fe16e5515be7cb95dd8ff3

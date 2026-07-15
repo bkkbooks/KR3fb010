@@ -20,6 +20,7 @@ markers:
   - {type: 'tls:seg-end', offset: 107, content: '', id: KR3fb010_tls_001-p11.s6.2_end, seg_type: comm}
   - {type: 'tls:seg', offset: 107, content: '', id: KR3fb010_tls_001-p11.s7}
   - {type: line-break, offset: 107, content: '', id: KX_7_dup11, _xml_error: duplicate-id, _xml_original_id: KX_7}
+  - {type: substitution, offset: 119, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 131, content: '', id: KR3fb010_tls_001-p11.s8}
   - {type: line-break, offset: 131, content: '', id: KX_8_dup11, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 155, content: '', id: KR3fb010_tls_001-p11.s9}
@@ -48,6 +49,7 @@ markers:
   - {type: line-break, offset: 366, content: '', id: KX_21_dup11, _xml_error: duplicate-id, _xml_original_id: KX_21}
   - {type: 'tls:seg', offset: 387, content: '', id: KR3fb010_tls_001-p11.s22}
   - {type: line-break, offset: 387, content: '', id: KX_22_dup11, _xml_error: duplicate-id, _xml_original_id: KX_22}
+  - {type: substitution, offset: 395, original: 澣, replacement: 浣, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18265}}
   - {type: 'tls:seg', offset: 398, content: '', id: KR3fb010_tls_001-p11.s23}
   - {type: line-break, offset: 398, content: '', id: KX_23_dup11, _xml_error: duplicate-id, _xml_original_id: KX_23}
   - {type: 'tls:seg', offset: 422, content: '', id: KR3fb010_tls_001-p11.s24}
@@ -55,4 +57,4 @@ markers:
   - {type: 'tls:seg', offset: 446, content: '', id: KR3fb010_tls_001-p11.s25}
   - {type: line-break, offset: 446, content: '', id: KX_25_dup11, _xml_error: duplicate-id, _xml_original_id: KX_25}
   back: []
-hash: sha256:28fedf613e620928516bd50461659677e38f8fdae146ad45f9d737f44a08ae38
+hash: sha256:0d8ab9ee499e1b36bd461ef887d95b461e605e907d9062eb801e6b5f696eeaae
